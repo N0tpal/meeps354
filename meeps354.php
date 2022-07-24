@@ -49,7 +49,7 @@ function change(){
                 echo "\n".color("blue"," [x1] DISKON 50% GoCar pake GoPay maks. Rp30.000");
                 sleep(1);
                 echo "\n".color("red"," [x1] DISKON GO-FOOD 50%!");
-                echo "\n\n".color("blue","              @ZaqiGans      ");
+                echo "\n\n".color("blue","              @meeps354      ");
                 echo "\n".color("white","      Silahkan Masuk ke VMOS/AppClone");
                 for($a=1;$a<=3;$a++){
                         echo color("white",".");
